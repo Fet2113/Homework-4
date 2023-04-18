@@ -33,8 +33,7 @@ public class Main {
             deliveryDay++;
         }
         System.out.println("Потребуется дней: " + deliveryDay);
-    }
-    {
+
         //ex1;
         System.out.println("условный оператор 2 Задача -5");
     int monthNumber = 12;
