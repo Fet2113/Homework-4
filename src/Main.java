@@ -36,7 +36,7 @@ public class Main {
 
         //ex1;
         System.out.println("условный оператор 2 Задача -5");
-    int monthNumber = 12;
+    int monthNumber = 14;
         switch (monthNumber) {
         case 12:
         case 1:
